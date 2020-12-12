@@ -1,4 +1,4 @@
-# perpustakaan
+# Perpustakaan
 
 Cara install projek :
 1. clone repositori ini
